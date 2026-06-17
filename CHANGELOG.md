@@ -1,11 +1,13 @@
 # CHANGELOG
 
+## v1.33
+- Hero typography restore: `생존 인프라` 포인트 컬러와 안정적 3줄 구성.
+- Desktop layout stabilization: right visual card max-width reduced to prevent cropping.
+- KPI cards adjusted.
+- BNW favicon added.
+
 ## v1.32
-- 홈 히어로 타이포그래피 전면 보정
-- “수처리를 넘어 / 생존 인프라를 / 만듭니다” 3줄 고정 구조 적용
-- 한글·일본어 단어 깨짐 방지 CSS 강화
-- 주요 제목·카드 제목·섹션 제목 폰트 크기와 행간 조정
-- GitHub Pages 업로드 구조 유지
+- Korean word-breaking audit.
 
 ## v1.31
-- 회사소개/기술/프로젝트/BLUE BOX/다운로드/블로그/문의폼 보강
+- Content expansion from company profile, IR, BLUE BOX, projects.
