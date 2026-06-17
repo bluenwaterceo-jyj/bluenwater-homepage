@@ -1,16 +1,13 @@
-# BLUE N WATER Website Changelog
+# CHANGELOG
 
-## v1.21 - 2026-06-17
-- Hero 타이포그래피 리빌드: 한국어 단어 깨짐 방지를 위해 고정 줄바꿈 적용
-- H1 폰트 크기/line-height/letter-spacing 재조정
-- `word-break: keep-all` 전역 적용으로 한글·일문 문장 깨짐 최소화
-- KPI 카드 카피 수정: `0원 / 2년 / 36만톤`으로 의미 명확화
-- Hero 이미지 영역에 교체용 슬롯 라벨 추가
-- Navigation을 글로벌 전시회용 톤으로 정리: TECHNOLOGY / SOLUTIONS / PROJECTS / INVESTORS
-- 모바일/태블릿 반응형 레이아웃 재조정
-- KO/EN/JA 언어 전환에서 HTML 줄바꿈 지원
+## v1.31
+- BNW 회사소개서/IR/G스타 오디션/장흥 연육공장 자료 기반 콘텐츠 보강
+- RaDX, AQUACOM, Bluechip Media, Blue Eye/Hands, BLUE BOX, 김정수, Urban Mining 설명 보강
+- 프로젝트 섹션 확장 및 개별 페이지 내용 강화
+- 도쿄 전시회용 Download Center, Blog, Inquiry 동선 강화
 
-## v1.2
-- 딥네이비 기반 디자인 적용
-- 다중 페이지 정적 HTML 구조
-- GitHub Pages 업로드 가능 구조
+## v1.3
+- BLOG 메뉴, PDF 다운로드 센터, 대표 인사말, BLUE BOX 전용 페이지, forms.app 문의폼 추가
+
+## v1.21
+- 히어로 타이포그래피 및 줄깨짐 수정

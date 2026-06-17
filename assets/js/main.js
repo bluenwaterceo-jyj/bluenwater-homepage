@@ -1,1 +1,2 @@
-document.addEventListener('DOMContentLoaded',()=>{const h=document.querySelector('.hamb');const m=document.querySelector('.mobile-menu');if(h&&m)h.addEventListener('click',()=>m.classList.toggle('open'));const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('on')}),{threshold:.12});document.querySelectorAll('.reveal').forEach(el=>io.observe(el));});
+document.querySelectorAll('.hamb').forEach(btn=>{btn.addEventListener('click',()=>{document.querySelector('.mobile-menu')?.classList.toggle('open')})});
+(function(){const y=document.getElementById('year'); if(y) y.textContent=new Date().getFullYear();})();
