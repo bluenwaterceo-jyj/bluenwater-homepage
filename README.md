@@ -1,13 +1,20 @@
-# BLUE N WATER Website v1.33
+# BLUE N WATER Website v1.35
 
-GitHub Pages용 정적 HTML/CSS/JS 홈페이지입니다.
+Static HTML website for GitHub Pages.
 
-## v1.33 수정
-- Hero 문구를 이전 톤으로 복원: `수처리를 넘어, / 생존 인프라를 / 만듭니다.`
-- `생존 인프라` 포인트 컬러 복원
-- 데스크톱에서 우측 Hero 카드가 잘리지 않도록 그리드 폭 조정
-- KPI 카드 텍스트 오버플로우 보정
-- BNW favicon SVG 추가
+## Upload
+Unzip and upload all internal files/folders to the repository root. Do not upload the ZIP file itself.
 
-## 업로드
-압축을 풀고 내부 파일 전체를 GitHub repository root에 업로드하세요. ZIP 자체 업로드 금지.
+## SEO files
+- robots.txt
+- sitemap.xml
+- llms.txt
+- assets/seo/keyword-map.json
+
+## Language
+- Korean: /
+- English: /en/
+- Japanese: /ja/
+
+## Inquiry form
+Contact page uses forms.app and backup mailto link.
