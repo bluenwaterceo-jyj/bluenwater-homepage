@@ -1,20 +1,19 @@
-# BLUE N WATER Website v1.35
+# BLUE N WATER Website v1.36
 
-Static HTML website for GitHub Pages.
+Upload the contents of this folder to the GitHub repository root. Do not upload the zip file itself.
 
-## Upload
-Unzip and upload all internal files/folders to the repository root. Do not upload the ZIP file itself.
+## Language structure
 
-## SEO files
-- robots.txt
-- sitemap.xml
-- llms.txt
-- assets/seo/keyword-map.json
+- `/ko/` Korean
+- `/en/` English
+- `/ja/` Japanese
 
-## Language
-- Korean: /
-- English: /en/
-- Japanese: /ja/
+The root `index.html` redirects to `/ko/`.
+
+## Image replacement
+
+Replace files under `assets/images/` while keeping the same filenames.
 
 ## Inquiry form
-Contact page uses forms.app and backup mailto link.
+
+The inquiry page embeds forms.app and also provides an email backup.

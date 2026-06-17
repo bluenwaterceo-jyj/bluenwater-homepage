@@ -1,8 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /assets/pdf/*.tmp
-
+Disallow: /assets/pdf/private/
 Sitemap: https://bluenwater.com/sitemap.xml
-
-# AI and discovery
-# Public company information may be crawled. Do not index private files outside this repository.

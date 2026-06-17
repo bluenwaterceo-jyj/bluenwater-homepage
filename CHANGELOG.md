@@ -1,9 +1,8 @@
-# CHANGELOG
+# BLUE N WATER Website v1.36
 
-## v1.35
-- Fixed language switch: KO / EN / JA home pages now navigate to real static pages.
-- Added localized English and Japanese landing pages.
-- Added SEO title, description, canonical, hreflang, Open Graph, Twitter card and schema.org JSON-LD metadata.
-- Added robots.txt, sitemap.xml with hreflang alternates, llms.txt, and assets/seo/keyword-map.json.
-- Added intent-depth keyword map: problem awareness → solution discovery → technology comparison → vendor procurement → conversion.
-- Preserved v1.34 CSS/layout and CEO message structure.
+- Converted multilingual structure from JS-based switching to independent `/ko/`, `/en/`, `/ja/` pages.
+- Removed mixed-language CEO message blocks; each language page now contains only its own language.
+- Preserved v1.33/v1.34 CSS and layout tone while rebuilding internal navigation.
+- Fixed language switching so the same page path is preserved across KO / EN / JA.
+- Added hreflang, canonical, sitemap, robots.txt, llms.txt, and language-specific keyword maps.
+- Kept BLUE BOX as a dedicated page only; no separate war/disaster/reconstruction pages were added.
