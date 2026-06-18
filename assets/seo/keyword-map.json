@@ -1,0 +1,113 @@
+{
+  "ko": {
+    "stage_1_brand": [
+      "블루앤워터",
+      "BLUE N WATER",
+      "BNW",
+      "수처리",
+      "산업폐수"
+    ],
+    "stage_2_problem": [
+      "무약품 수처리",
+      "산업폐수 비용 절감",
+      "식품가공수 재이용",
+      "이동식 정수 시스템",
+      "용수 재이용 설비"
+    ],
+    "stage_3_solution": [
+      "RaDX catalyst",
+      "AQUACOM C-AOP",
+      "BLUE BOX",
+      "K-GIM",
+      "Urban Mining"
+    ],
+    "stage_4_buyer_intent": [
+      "도입문의",
+      "유지관리 파트너",
+      "EPC 파트너",
+      "조달",
+      "기술검토"
+    ],
+    "stage_5_authority": [
+      "특허",
+      "적용사례",
+      "사이트맵",
+      "공식 블로그",
+      "자료실"
+    ]
+  },
+  "en": {
+    "stage_1_brand": [
+      "BLUE N WATER",
+      "BNW",
+      "water treatment",
+      "industrial wastewater treatment",
+      "food processing water treatment"
+    ],
+    "stage_2_problem": [
+      "chemical-free water treatment",
+      "industrial wastewater cost reduction",
+      "food processing water reuse",
+      "mobile water purification",
+      "water reuse system"
+    ],
+    "stage_3_solution": [
+      "RaDX catalyst",
+      "AQUACOM C-AOP",
+      "BLUE BOX",
+      "K-GIM",
+      "Urban Mining"
+    ],
+    "stage_4_buyer_intent": [
+      "project inquiry",
+      "O&M partner",
+      "EPC partner",
+      "procurement",
+      "technical review"
+    ],
+    "stage_5_authority": [
+      "patents",
+      "case study",
+      "sitemap",
+      "official blog",
+      "download center"
+    ]
+  },
+  "ja": {
+    "stage_1_brand": [
+      "BLUE N WATER",
+      "BNW",
+      "水処理",
+      "産業排水処理",
+      "食品加工水処理"
+    ],
+    "stage_2_problem": [
+      "薬品低減型水処理",
+      "産業排水コスト削減",
+      "食品加工水再利用",
+      "移動式浄水システム",
+      "水再利用設備"
+    ],
+    "stage_3_solution": [
+      "RaDX catalyst",
+      "AQUACOM C-AOP",
+      "BLUE BOX",
+      "K-GIM",
+      "Urban Mining"
+    ],
+    "stage_4_buyer_intent": [
+      "導入相談",
+      "保守パートナー",
+      "EPCパートナー",
+      "調達",
+      "技術検討"
+    ],
+    "stage_5_authority": [
+      "特許",
+      "導入事例",
+      "サイトマップ",
+      "公式ブログ",
+      "資料室"
+    ]
+  }
+}

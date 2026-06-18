@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /assets/pdf/private/
+Sitemap: https://bluenwater.com/sitemap.xml
