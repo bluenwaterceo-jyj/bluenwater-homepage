@@ -1,11 +1,11 @@
-# BLUE N WATER Website v1.38
+# BLUE N WATER Website v1.39
 
 Clean multilingual static website for GitHub Pages.
 
-## Structure
-- `/ko/` Korean
-- `/en/` English
-- `/ja/` Japanese SEO path; UI label is `JP`
-- `/assets/brand/` official BLUE N WATER logo files
+Upload the contents of this folder to repository root.
 
-Upload only the files inside this folder to GitHub root. Do not mix with old version folders.
+Structure:
+- ko/ Korean pages
+- en/ English pages
+- ja/ Japanese pages (button label: JP, SEO hreflang: ja-JP)
+- assets/ brand, image placeholders, css/js, SEO
