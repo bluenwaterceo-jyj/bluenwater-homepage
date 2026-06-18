@@ -1,5 +1,5 @@
-# BLUE N WATER Website v1.40
+# BLUE N WATER Website v1.41
 
-Static multilingual website for GitHub Pages. Upload all files at repository root.
+Static HTML/CSS/JS website for GitHub Pages.
 
-Key additions: R&D portfolio, patent portfolio, government R&D history, PMO address, REDOX proposal visual.
+Upload the contents of this folder to the repository root.
