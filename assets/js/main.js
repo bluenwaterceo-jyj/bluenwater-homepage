@@ -1,2 +1,0 @@
-document.querySelectorAll('.hamb').forEach(btn=>{btn.addEventListener('click',()=>{document.querySelector('.mobile-menu')?.classList.toggle('open')})});
-(function(){const y=document.getElementById('year'); if(y) y.textContent=new Date().getFullYear();})();
