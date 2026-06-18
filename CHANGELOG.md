@@ -1,3 +1,9 @@
+
+## v1.46
+- BLUE BOX conceptual images applied to Home Hero and BLUE BOX product page.
+- Added optimized WebP image assets for disaster response, technology module, and product platform sections.
+- Preserved v1.44 press-stable navigation, logo, SEO, sitemap and robots baseline.
+
 # Changelog
 
 ## v1.41
