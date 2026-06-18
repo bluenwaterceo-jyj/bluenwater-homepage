@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#071a33"/>
+<stop offset="0.55" stop-color="#0b3b60"/>
+<stop offset="1" stop-color="#21c7ff"/>
+</linearGradient>
+<linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.12"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.02"/>
+</linearGradient>
+</defs>
+<rect width="960" height="560" fill="url(#g)"/>
+<path d="M650 0h310v560H770L555 280z" fill="#21c7ff" opacity=".16"/>
+<path d="M760 0h200v560H855L690 280z" fill="#fff" opacity=".06"/>
+<circle cx="800" cy="105" r="160" fill="url(#w)"/>
+<text x="58" y="82" fill="#eef7ff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">BLUE<tspan fill="#21c7ff">N</tspan>WATER</text>
+<text x="58" y="170" fill="#21c7ff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="6">PRESS</text>
+<text x="58" y="265" fill="#eef7ff" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="800">KDPress</text>
+<text x="58" y="332" fill="#21c7ff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800">BlueN Legacy</text>
+<text x="58" y="480" fill="#a9bed2" font-family="Arial, Helvetica, sans-serif" font-size="22">2023 · WATER RESOURCE INDEPENDENCE PLATFORM</text>
+</svg>

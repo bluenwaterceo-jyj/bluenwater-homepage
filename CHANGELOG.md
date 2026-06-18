@@ -9,3 +9,11 @@
 
 ## v1.40
 - R&D / IP portfolio added.
+
+
+## v1.44 press stable
+- PRESS page rebuilt with BLUE N WATER / BlueN Legacy sections.
+- Press cards use self-hosted thumbnails to avoid hotlink/copyright issues.
+- Government R&D timeline reordered newest-first.
+- Sitemap regenerated including PRESS pages.
+- Existing main layout preserved.

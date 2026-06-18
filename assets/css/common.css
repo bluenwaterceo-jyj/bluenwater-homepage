@@ -82,3 +82,24 @@ th,td{word-break:keep-all;overflow-wrap:anywhere;}
 .table-wrap th:nth-child(2),.table-wrap td:nth-child(2){width:24%;}
 .table-wrap th:nth-child(3),.table-wrap td:nth-child(3){width:46%;}
 @media(max-width:760px){.table-wrap table{min-width:720px;table-layout:auto}.table-wrap th,.table-wrap td{white-space:normal}}
+
+
+/* v1.44 press + stability additions */
+.press-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.press-card{display:flex;flex-direction:column;overflow:hidden;border:1px solid var(--line);border-radius:24px;background:rgba(255,255,255,.05);box-shadow:0 24px 80px rgba(0,0,0,.22);transition:transform .2s ease,border-color .2s ease}
+.press-card:hover{transform:translateY(-4px);border-color:rgba(33,199,255,.45)}
+.press-thumb{aspect-ratio:16/9;background:#071a33;overflow:hidden;border-bottom:1px solid var(--line)}
+.press-thumb img{width:100%;height:100%;object-fit:cover}
+.press-body{padding:24px;display:flex;flex-direction:column;gap:14px;min-height:290px}
+.press-meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.badge{display:inline-flex;align-items:center;border:1px solid rgba(33,199,255,.45);border-radius:999px;padding:5px 10px;color:var(--cyan);font-size:12px;font-weight:900;background:rgba(33,199,255,.1)}
+.press-card h3{font-size:22px;line-height:1.25;letter-spacing:-.04em;margin:0}
+.press-card p{margin:0;color:var(--muted);line-height:1.7}
+.press-link{margin-top:auto;color:var(--cyan);font-weight:900}
+.press-note{border:1px solid rgba(33,199,255,.25);border-radius:24px;padding:24px;background:rgba(33,199,255,.07);color:#cfe8ff;line-height:1.75}
+.timeline-item{grid-template-columns:110px minmax(0,1fr)}
+.timeline-item .card-title{overflow-wrap:anywhere}
+.table-wrap{overflow-x:auto}
+.table-wrap table{min-width:680px}
+@media(max-width:1100px){.press-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:720px){.press-grid{grid-template-columns:1fr}.press-body{min-height:auto}.timeline-item{grid-template-columns:1fr;gap:12px}.section-title{font-size:36px!important}}
