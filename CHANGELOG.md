@@ -1,3 +1,18 @@
+# v1.48 corrected project references
+
+- 서울드래곤시티를 설비 도입/선정 실적이 아닌 운영 컨설팅 지원 사례로 명확히 수정
+- 프로젝트 페이지 Hero 문구 교체
+- 서울드래곤시티 PDF 이미지 추출 및 컨설팅 페이지 적용
+- 흑석동 키즈풀 cover 이미지 복구 및 Crystal Clear Water Standard 지향 문구 반영
+- 프로젝트 카드 문구 정리
+
+
+## v1.47
+- Project field galleries added for DMZ, Mokpo Woori-Gim, Muan, Yangju Pool, and Heukseok-dong Pool.
+- Mokpo project background and Yangju main pool visual applied.
+- Lightweight BLUE BOX cinematic hero background video added.
+- v1.46 layout, PRESS, SEO, sitemap, and robots preserved.
+
 
 ## v1.46
 - BLUE BOX conceptual images applied to Home Hero and BLUE BOX product page.
