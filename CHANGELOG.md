@@ -38,3 +38,13 @@
 - Government R&D timeline reordered newest-first.
 - Sitemap regenerated including PRESS pages.
 - Existing main layout preserved.
+
+
+## v1.49
+- Unified PRESS timeline.
+- Added project purpose/capacity data.
+- Added patent certificate image cards.
+- Updated PMO and registered head office addresses.
+- Added Naver Place, Smart Store, and Blog links.
+- Rechecked SEO canonical/hreflang/sitemap/robots.
+- Rebuilt core KO/EN/JA project, press, and R&D pages.

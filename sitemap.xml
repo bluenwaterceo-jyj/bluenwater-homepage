@@ -1,107 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bluenwater.com/404.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/bluebox/overview.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/company/about.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/company/history.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/company/team.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/company/vision.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/contact/inquiry.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/contact/partner.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/downloads/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/investors/downloads.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/investors/ir.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/investors/patents.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/investors/roadmap.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/press/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/projects/case-study.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/projects/dmz-peace-farm.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/projects/dragon-city.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/projects/heukseok-pool.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/projects/jangheung.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/projects/mokpo-gim.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/projects/muan-cabbage.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/projects/yangju-pool.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/rd/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/solutions/food-processing.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/solutions/industrial-water.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/solutions/rainwater.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/solutions/swimming-pool.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/solutions/urban-mining.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/solutions/wastewater.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/technology/aquacom.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/technology/blue-eye.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/technology/blue-hands.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/technology/bluechip-media.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/en/technology/radix.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/bluebox/overview.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/company/about.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/company/history.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/company/team.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/company/vision.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/contact/inquiry.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/contact/partner.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/downloads/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/investors/downloads.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/investors/ir.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/investors/patents.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/investors/roadmap.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/press/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/projects/case-study.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/projects/dmz-peace-farm.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/projects/dragon-city.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/projects/heukseok-pool.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/projects/jangheung.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/projects/mokpo-gim.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/projects/muan-cabbage.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/projects/yangju-pool.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/rd/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/solutions/food-processing.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/solutions/industrial-water.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/solutions/rainwater.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/solutions/swimming-pool.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/solutions/urban-mining.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/solutions/wastewater.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/technology/aquacom.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/technology/blue-eye.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/technology/blue-hands.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/technology/bluechip-media.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ja/technology/radix.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/bluebox/overview.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/company/about.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/company/history.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/company/team.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/company/vision.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/contact/inquiry.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/contact/partner.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/downloads/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://bluenwater.com/ko/investors/downloads.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/investors/ir.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/investors/patents.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/investors/roadmap.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/press/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/projects/case-study.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/projects/dmz-peace-farm.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/projects/dragon-city.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/projects/heukseok-pool.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/projects/jangheung.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/projects/mokpo-gim.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/projects/muan-cabbage.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/projects/yangju-pool.html</loc><lastmod>2026-06-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/rd/index.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/solutions/food-processing.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/solutions/industrial-water.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/solutions/rainwater.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/solutions/swimming-pool.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/solutions/urban-mining.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/solutions/wastewater.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/technology/aquacom.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/technology/blue-eye.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/technology/blue-hands.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/technology/bluechip-media.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://bluenwater.com/ko/technology/radix.html</loc><lastmod>2026-06-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/bluebox/overview.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/company/about.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/company/history.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/company/team.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/company/vision.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/contact/inquiry.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/contact/partner.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/downloads/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/investors/downloads.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/investors/ir.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/investors/patents.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/investors/roadmap.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/press/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/projects/case-study.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/projects/dmz-peace-farm.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/projects/dragon-city.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/projects/heukseok-pool.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/projects/jangheung.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/projects/mokpo-gim.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/projects/muan-cabbage.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/projects/yangju-pool.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/rd/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/solutions/food-processing.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/solutions/industrial-water.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/solutions/rainwater.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/solutions/swimming-pool.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/solutions/urban-mining.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/solutions/wastewater.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/technology/aquacom.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/technology/blue-eye.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/technology/blue-hands.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/technology/bluechip-media.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/en/technology/radix.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+<url><loc>https://bluenwater.com/ja/bluebox/overview.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/company/about.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/company/history.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/company/team.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/company/vision.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/contact/inquiry.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/contact/partner.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/downloads/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/investors/downloads.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/investors/ir.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/investors/patents.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/investors/roadmap.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/press/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/projects/case-study.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/projects/dmz-peace-farm.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/projects/dragon-city.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/projects/heukseok-pool.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/projects/jangheung.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/projects/mokpo-gim.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/projects/muan-cabbage.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/projects/yangju-pool.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/rd/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/solutions/food-processing.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/solutions/industrial-water.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/solutions/rainwater.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/solutions/swimming-pool.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/solutions/urban-mining.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/solutions/wastewater.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/technology/aquacom.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/technology/blue-eye.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/technology/blue-hands.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/technology/bluechip-media.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ja/technology/radix.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/bluebox/overview.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/company/about.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/company/history.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/company/team.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/company/vision.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/contact/inquiry.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/contact/partner.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/downloads/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+<url><loc>https://bluenwater.com/ko/investors/downloads.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/investors/ir.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/investors/patents.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/investors/roadmap.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/press/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/projects/case-study.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/projects/dmz-peace-farm.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/projects/dragon-city.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/projects/heukseok-pool.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/projects/jangheung.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/projects/mokpo-gim.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/projects/muan-cabbage.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/projects/yangju-pool.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/rd/index.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/solutions/food-processing.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/solutions/industrial-water.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/solutions/rainwater.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/solutions/swimming-pool.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/solutions/urban-mining.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/solutions/wastewater.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/technology/aquacom.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/technology/blue-eye.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/technology/blue-hands.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/technology/bluechip-media.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://bluenwater.com/ko/technology/radix.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
